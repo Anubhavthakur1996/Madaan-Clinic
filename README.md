@@ -1,1 +1,2 @@
-# Madaan-Clinic
+# Euro-Travels
+A Free Responsive Agency Template 
