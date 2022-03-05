@@ -43,7 +43,7 @@ body
 	text-align: center;
 }
 .section-subtitle{
-	color: #583b54;
+	color: #145E45;
 	text-align: center;
 	margin-bottom: 50px;
 }
@@ -56,20 +56,19 @@ p{
 }
 .border-radius{
 	border-radius: 0 !important;
-	border-color: #60c9eb;
+	border-color: #0B3426;
 	height: 45px;
 }
 p:hover{
 	cursor: default;
 }
 .navbar-toggle {
-    background-color: rgb(96, 201, 235);
-    border: 1px solid rgb(96, 201, 235);
+    border: 1px solid rgb(11, 52, 38);
     border-radius: 0;
     transition: all .4s ease-in-out;
 }
 .navbar-default .navbar-toggle {
-    border-color: rgb(96, 201, 235);
+    border-color: rgb(11, 52, 38);
 }
 .navbar-default .navbar-toggle .icon-bar{
 	background: #fff;
@@ -78,10 +77,10 @@ p:hover{
 	background: #fff;
 }
 .navbar-toggle:hover .icon-bar, .navbar-toggle:focus .icon-bar {
-    background-color: rgb(96, 201, 235);
+    background-color: rgb(11, 52, 38);
 }
 .form-control:focus {
-    border-color: #66afe9;
+    border-color: #145E45;
     outline: 0;
     -webkit-box-shadow: none;
     box-shadow: none;
@@ -92,7 +91,7 @@ p:hover{
 			/*navbar*/
 .navbar-default .navbar-brand{
 	border: 1px solid transparent;
-	color: #60c9eb;
+	color: #0B3426;
 	font-size: 33px;
 	padding: 10px 0px;
 	height: auto;
@@ -104,10 +103,11 @@ ul.nav.navbar-nav.navbar-right{
 	margin-top: 10px;
 }
 .navbar-default .navbar-brand span{
-	color: #583b54;
+	/* color: #145E45; */
+	color: #145E45;
 }
 .navbar-default .navbar-brand:focus, .navbar-default .navbar-brand:hover{
-	color: #60c9eb;
+	color: #0B3426;
 }
 .navbar-default {
     background-color: #fff;
@@ -117,7 +117,7 @@ ul.nav.navbar-nav.navbar-right{
     text-transform: uppercase;
 }
 .navbar-default .navbar-nav>li>a{
-	color: #60c9eb;
+	color: #0B3426;
     padding-right: 20px;
     padding-left: 20px;
     border: 1px solid transparent;
@@ -127,10 +127,10 @@ ul.nav.navbar-nav.navbar-right{
     transition: all .4s ease-in-out;
 }
 .navbar-default .navbar-nav>li>a:hover{
-	color: #60c9eb;
+	color: #0B3426;
 }
 .navbar-default .navbar-nav>li>a:focus, .navbar-default .navbar-nav>li>a:hover{
-	color: #60c9eb;
+	color: #0B3426;
 	background: #e8f9ff;
 }
 .navbar-nav>li>a {
@@ -139,7 +139,7 @@ ul.nav.navbar-nav.navbar-right{
 }
 .navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:focus, .navbar-default .navbar-nav>.active>a:hover{
     background-color: transparent;
-    color: #60c9eb;
+    color: #0B3426;
     background: #e8f9ff;
 }
 		/*Home*/
@@ -197,7 +197,7 @@ ul.nav.navbar-nav.navbar-right{
 }
 .custom-btn:hover{
 	background: #fff;
-	color: #583b54;
+	color: #145E45;
 }
 /*=================================================
 ||				4. Find a Tour
@@ -212,7 +212,7 @@ ul.nav.navbar-nav.navbar-right{
 	border-right: 0px;
 }
 .custom-button{
-	background: #60c9eb;
+	background: #0B3426;
 	color: #fff;
 	width: 100%;
 	text-align: center;
@@ -246,7 +246,7 @@ ul.nav.navbar-nav.navbar-right{
 .icon{
 	padding: 20px 0;
 	font-size: 35px;
-	color: #60c9eb;
+	color: #0B3426;
 }
 .offer-item h3{
 	padding-bottom: 40px;
@@ -276,7 +276,7 @@ ul.nav.navbar-nav.navbar-right{
 }
 .visit .owl-theme .owl-controls .owl-nav [class*=owl-]{
 	background: #fff;
-	color: #60c9eb;
+	color: #0B3426;
 	font-size: 25px;
 }
 /*=================================================
@@ -288,7 +288,7 @@ ul.nav.navbar-nav.navbar-right{
 }
 .offering{
 	float: right;
-	color: #60c9eb;
+	color: #0B3426;
 	text-align: center;
 	padding: 32px 0;
 }
@@ -307,16 +307,16 @@ ul.nav.navbar-nav.navbar-right{
 	margin-top: -20px;
 }
 .price-btn{
-	background: #60c9eb;
+	background: #0B3426;
     color: #fff;
-    border-color: #60c9eb;
+    border-color: #0B3426;
     text-transform: capitalize;
     margin: 20px;
 }
 .price-btn:hover{
-	color: #60c9eb;
+	color: #0B3426;
     background-color: #fff;
-    border-color: #60c9eb;
+    border-color: #0B3426;
 }
 /*=================================================
 ||				8. Additional Services
@@ -366,7 +366,7 @@ ul.nav.navbar-nav.navbar-right{
 	opacity: 1;
 }
 .owl-theme .owl-dots .owl-dot.active span, .owl-theme .owl-dots .owl-dot:hover span{
-	background: #60c9eb;
+	background: #0B3426;
 }
 .owl-theme .owl-dots .owl-dot span{
 	background: #f1f1f1;
@@ -379,13 +379,13 @@ ul.nav.navbar-nav.navbar-right{
 }
 .brand-logo{
 	font-size: 33px;
-	color: #60c9eb;
+	color: #0B3426;
 }
 a.brand-logo span{
-	color: #583b54;
+	color: #145E45;
 }
 a.brand-logo:focus, a.brand-logo:hover{
-	color: #60c9eb;
+	color: #0B3426;
 	text-decoration: none;
 }
 
@@ -395,9 +395,9 @@ a.brand-logo:focus, a.brand-logo:hover{
 	margin: 40px 0 20px;
 }
 .custom-sub-btn{
-	background-color: #60c9eb;
+	background-color: #0B3426;
 	color: #fff;
-	border-color: #60c9eb;
+	border-color: #0B3426;
 	transition: all .4s ease-in-out;
 }
 .custom-sub-btn:hover{
@@ -420,7 +420,7 @@ a.brand-logo:focus, a.brand-logo:hover{
     padding: 5px;
 }
 .social-icon a{
-	color: #60c9eb;
+	color: #0B3426;
 }
 .social-icon a:hover{
 	color: #53B1DE;
@@ -429,7 +429,7 @@ a.brand-logo:focus, a.brand-logo:hover{
 footer{
 	text-align: center;
 	padding: 20px;
-	background: #60c9eb;
+	background: #0B3426;
 }
 footer a{
 	color: #fff;
